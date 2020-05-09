@@ -1,7 +1,7 @@
 
 1- les références a pointer sur une variable 
 
-2- move copy clone
+2- enum , struct box et let
 
 3- Rust est compilé nativement
 
