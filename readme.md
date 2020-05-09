@@ -1,7 +1,7 @@
 
 1- les références a pointer sur une variable 
 
-2- enum , struct box et let
+2- union,struct 
 
 3- Rust est compilé nativement
 
