@@ -1,5 +1,5 @@
 # Mini Shell TP 
-by barr mohamed anis and 
+by barr mohamed anis and said el yadini
 
 ## Questions / Réponses
 
